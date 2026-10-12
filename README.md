@@ -29,10 +29,6 @@ Add your simulation recording or GIF here.
   <img src="https://github.com/sarthakboy/Simon-Game-using-AVR/blob/main/simon%20game%20gif.gif" alt="Simon Memory Game simulation demonstration" width="850"/>
 </p>
 
-<!-- Option 2: Replace YOUR_VIDEO_LINK with a YouTube or other accessible video URL -->
-**▶ Watch the full demonstration:** [Simon Memory Game — Simulation Video](YOUR_VIDEO_LINK)
-
-> **Note:** Replace the placeholder image and video paths with your actual files. You can remove either demo option if you only have a screenshot or video.
 
 ## ✨ Features
 
